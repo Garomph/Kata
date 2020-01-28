@@ -7,3 +7,4 @@ I might recreated another package for the same Kata but using a different approa
 ### Completed Kata
  - Harry
  - Tennis Rules 
+ - FizzBuzz
